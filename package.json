@@ -1,0 +1,17 @@
+{
+  "name": "unireqres",
+  "version": "1.0.0",
+  "description": "Standarization for Http Request Response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "request",
+    "response",
+    "http",
+    "expressjs"
+  ],
+  "author": "azwar akbar",
+  "license": "ISC"
+}
